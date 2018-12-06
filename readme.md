@@ -1,8 +1,4 @@
-# YelpCamp
-
-
-
-# Project description
+# YelpCamp description
 Keywords: JavaScript | MEAN (MongoDB, AngularJS, Express, Node.js) | Git | Heroku
 
 Implemented a Yelp-like website where people can share campgrounds on it.
