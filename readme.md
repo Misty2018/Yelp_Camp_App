@@ -9,7 +9,7 @@ Used AngularJS for the frontend, Node.js and Express for backend and MongoDB for
 
 
 # 
-### Implemented by Mengyao(Misty) Yang
+### Implemented by Mengyao(Regina) Yang
 
 ### Deployed on Heroku server. 
 
